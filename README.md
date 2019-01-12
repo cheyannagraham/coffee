@@ -2,5 +2,6 @@
 
 ## About
 
-My Tribute Project for Free Free Code Camp. Created wtih HTML & CSS. 
+My Tribute Project for Free Code Camp. 
+Created wtih HTML & CSS. 
 
