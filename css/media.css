@@ -1,0 +1,21 @@
+@media screen and (min-width:550px) {
+    body {
+        font-size: 1.5em;
+    }
+
+    hr {
+        border: 7px solid brown;
+    }
+
+    img {
+        border: 10px solid #c1aba0;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    body {
+        max-width: 1000px;
+        margin: auto;
+        padding: 10px;
+    }
+}
